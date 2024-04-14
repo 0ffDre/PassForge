@@ -6,10 +6,10 @@ PassForge.py Automated/Manuel password generator. Allowing the user to create a 
 This tools is meant for pentesters trying to password spray, with different features. 
 
 ## Help:
-'python3 passForge.py -h'
+`python3 passForge.py -h`
 
 ## Automated mode:
-'python3 passForge.py -a'
+`python3 passForge.py -a`
 
 ## Manuel mode:
-'python3 passForge.py -m'
+`python3 passForge.py -m`
