@@ -5,11 +5,11 @@ PassForge.py Automated/Manuel password generator. Allowing the user to create a 
 ## Purpose:
 This tools is meant for pentesters trying to password spray, with different features. 
 
-##Help:
+## Help:
 'python3 passForge.py -h'
 
-##Automated mode:
+## Automated mode:
 'python3 passForge.py -a'
 
-##Manuel mode:
+## Manuel mode:
 'python3 passForge.py -m'
